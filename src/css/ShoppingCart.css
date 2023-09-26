@@ -58,13 +58,13 @@
 	color: white;
 }
 
-.shopping-cart button {
+/* .shopping-cart button {
 	border: 1px solid white;
 	background: transparent;
 	border-radius: 5px;
 	padding: 10px;
 	color: white;
-}
+} */
 
 .shopping-cart button:hover {
 	background: black;
